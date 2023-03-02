@@ -8,7 +8,7 @@ function AllData(){
     const users = [...Records];
     console.log(JSON.stringify(users));
 
-
+ 
     return (
         <table className="table table-hover table-bordered table-sm w-50">
             <thead>

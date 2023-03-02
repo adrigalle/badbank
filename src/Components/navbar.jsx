@@ -30,7 +30,7 @@ return(
                     <Link className="nav-link" to="/alldata/" title="Check out all the fake data from fake users">All Data</Link>
                 </li>
                 <li className="nav-item bg-nav">
-                    <Link className="nav-link" to="/CreateAccount" title="Create a fake bank account with this fake bank">Create Account</Link>
+                    <Link className="nav-link" to="/createaccount/" title="Create a fake bank account with this fake bank">Create Account</Link>
                 </li>
                 <li className="nav-item bg-nav">
                     <Link className="nav-link" to="/login/" title="Login to this fake bank">Login</Link>
